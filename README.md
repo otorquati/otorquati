@@ -24,7 +24,7 @@
     
 ##
     
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/c/OSVALDOTORQUATI/about" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/djthorkuat" target="_blank">
