@@ -17,7 +17,7 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otorquati&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otorquati&layout=compact)](https://github.com/otorquati/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otorquati&layout=compact&theme=dracula)](https://github.com/otorquati/github-readme-stats)
 
 ---
 ## Technologies I use on a daily basis
@@ -35,3 +35,4 @@
 </div>
 
 ---
+
