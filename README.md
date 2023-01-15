@@ -2,8 +2,9 @@
 - 🔭 I’m currently working on front-end and programing in Delphi
 - 🌱 I’m currently learning HTML5, CSS3 and JS
 - 💬 Ask me about ISO 9001 & 14001 System Implementation...
-- 📫 How to reach me: torquati.osvaldo@gmail.com
+- 📫 How to reach me: <torquati.osvaldo@gmail.com>
 - 😄 Pronouns: He/his - ele/dele
+---
 ### Redes Sociais
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Torquati.Osvaldo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djthorkuat/)
@@ -14,13 +15,11 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/djthorkuat)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DJ_Thor)
 
-### Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-
-
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otorquati&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otorquati&layout=compact)](https://github.com/otorquati/github-readme-stats)
 
+---
 ## Tecnologias que eu utilizo no meu dia a dia
 
 <div style="display: inline_block"><br>
