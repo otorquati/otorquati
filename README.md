@@ -30,7 +30,7 @@
   <img align="center" alt="thor-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="thor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="thor-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="thor-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/react/original/ReactOriginal.svg)" />  
+  <img align="center" alt="thor-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/react/original-wordmark/ReactOriginalWordmark.svg" />  
     </div>
     </br>
 </div>
