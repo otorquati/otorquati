@@ -16,7 +16,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DJ_Thor)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otorquati&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otorquati&show_icons=true&theme=SynthWave'84)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otorquati&layout=compact&theme=dracula)](https://github.com/otorquati/github-readme-stats)
 
 ---
@@ -31,7 +31,7 @@
   <img align="center" alt="thor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="thor-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="thor-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/react/original-wordmark/ReactOriginalWordmark.svg" />  
-    </div>
+  </div>
     </br>
 </div>
 
