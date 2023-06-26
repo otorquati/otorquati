@@ -16,7 +16,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DJ_Thor)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otorquati&show_icons=true&theme=SynthWave'84)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otorquati&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otorquati&layout=compact&theme=dracula)](https://github.com/otorquati/github-readme-stats)
 
 ---
