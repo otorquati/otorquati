@@ -1,4 +1,4 @@
-## Hi there 🖖Welcome to my Github page
+## Hi there🖖Welcome to my Github page
 - 🔭 I’m currently working on front-end and programing in Delphi
 - 🌱 I’m currently learning HTML5, CSS3 and JS
 - 💬 Ask me about ISO 9001 & 14001 System Implementation...
@@ -13,11 +13,12 @@
 
 ### Streaming Channels
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/djthorkuat)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DJ_Thor)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjb_1kFoSDnhCpHdWUzv8Tw)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otorquati&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otorquati&layout=compact&theme=dracula)](https://github.com/otorquati/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otorquati&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otorquati&layout=compact&theme=synthwave)](https://github.com/otorquati/github-readme-stats)
+[![Meu Github](https://starchart.cc/{otorquati}/{repo}.svg)]
 
 ---
 ## Technologies I use on a daily basis
