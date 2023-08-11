@@ -18,7 +18,6 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otorquati&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otorquati&layout=compact&theme=synthwave)](https://github.com/otorquati/github-readme-stats)
-[![Meu Github](https://starchart.cc/{otorquati}/{repo}.svg)]
 
 ---
 ## Technologies I use on a daily basis
